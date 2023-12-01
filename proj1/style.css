@@ -1,0 +1,9 @@
+span {
+    font-style: italic;
+}
+
+.list-conteiner{
+    display: inline-block;
+    border-style: solid;
+    border-color: azure;
+}
